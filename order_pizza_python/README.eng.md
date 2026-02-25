@@ -11,7 +11,6 @@ The user selects the size, dough, toppings, sauce and cheese. The program calcul
 4. Run the command:
 python pizza_order.py
 
-text
 
 ## Work example
 Choose a size:
@@ -61,4 +60,5 @@ Cooking time: 12 minutes
 
 
 ## Author
+
 flim333n
